@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veri_Tabanlı_Parti_Seçim_Grafik_İstatistik", "Veri_Tabanlı_Parti_Seçim_Grafik_İstatistik.csproj", "{B9CEFBB3-F73A-4D31-9F82-D7B6CCAB2F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CEFBB3-F73A-4D31-9F82-D7B6CCAB2F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CEFBB3-F73A-4D31-9F82-D7B6CCAB2F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CEFBB3-F73A-4D31-9F82-D7B6CCAB2F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CEFBB3-F73A-4D31-9F82-D7B6CCAB2F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFE3E965-9FB7-4429-AD84-C005C7FABDC2}
+	EndGlobalSection
+EndGlobal
